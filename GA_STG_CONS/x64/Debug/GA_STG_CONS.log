@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.targets(49,5): error MSB8037: デスクトップ C++ x64 アプリ用 Windows SDK バージョン 10.0.18362.0 が見つかりませんでした。必要なバージョンの Windows SDK をインストールしてください。または、ソリューションを右クリックして [ソリューションの再ターゲット] を選択するか、プロジェクト プロパティ ページで SDK バージョンを変更してください。 
